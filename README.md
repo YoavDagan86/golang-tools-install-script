@@ -30,10 +30,10 @@ curl -L https://git.io/vQhTU | bash
 
 Or, if you are more comfortable with the raw URL:
 ```shell
-wget -q -O - https://raw.githubusercontent.com/canha/golang-tools-install-script/master/goinstall.sh | bash
+wget -q -O - https://raw.githubusercontent.com/YoavDagan86/golang-tools-install-script/master/goinstall.sh | bash
 
 # or...
-curl https://raw.githubusercontent.com/canha/golang-tools-install-script/master/goinstall.sh | bash
+curl https://raw.githubusercontent.com/YoavDagan86/golang-tools-install-script/master/goinstall.sh | bash
 ```
 
 ## :package: Install a custom Go version
